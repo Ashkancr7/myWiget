@@ -4,4 +4,5 @@ python-dotenv==1.0.1
 docx2txt==0.8
 openai==0.28.1
 llama-index
-langchain-community
+setuptools>=67.0.0
+langchain-community>=0.0.200
