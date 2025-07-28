@@ -1,0 +1,5 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+python-dotenv==1.0.1
+docx2txt==0.8
+openai==1.30.1
