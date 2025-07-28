@@ -12,7 +12,7 @@ __pycache__/
 *.tmp
 
 # فایل‌ها و پوشه‌های مربوط به دیتا و ایندکس
-storage/
+# storage/
 data/
 data3/
 # data4/
